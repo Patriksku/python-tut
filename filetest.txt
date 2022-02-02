@@ -1,0 +1,4 @@
+this is a file
+serves as a test
+for text
+next
